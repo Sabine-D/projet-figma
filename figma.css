@@ -1,0 +1,33 @@
+#premierbloc {
+    background-color:cornflowerblue;
+  }
+
+  #video {
+      width: 400px;
+      height: 400px;
+  }
+
+  #video2 {
+    width: 400px;
+    height: 400px;
+  }
+
+  #citation {
+      background-color: cornflowerblue;
+  }
+  video{
+    width: 400px;
+    height: 400px;  
+  }
+  #citation{
+    text-align:center; 
+  }
+  #bloc6{
+    text-align:center; 
+    list-style: none ;
+  }
+  #bloc7 h3,h4 {
+      text-align:center ;
+  }
+
+
